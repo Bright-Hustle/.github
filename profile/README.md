@@ -26,11 +26,11 @@ At Bright Hustle, we envision a future where technology seamlessly integrates in
 We welcome passionate individuals, partnerships, and opportunities that align with our vision for a tech-driven future. If you share our enthusiasm for innovation, feel free to reach out!
 
 ## Connect With Us
-- **Website:** [Bright Hustle Website]
-- **GitHub:** [Bright Hustle GitHub Organization]
+- **Website:** [https://www.brighthustle.in]
+- **GitHub:** [https://github.com/bright-hustle/]
 
 ## Contact Information
-For inquiries, collaborations, or more information, please contact us at [Email Address] or [Phone Number].
+For inquiries, collaborations, or more information, please contact us at [hello@brighthustle.in] or [].
 
 *Note: This README is subject to updates and enhancements as Bright Hustle continues to innovate and evolve in the tech space.*
 
